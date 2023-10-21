@@ -1,2 +1,3 @@
 # Reading Notes
-## This is my Ops Reading Notes Repo
+
+## Ops 201: Foundations of Computer Operations
