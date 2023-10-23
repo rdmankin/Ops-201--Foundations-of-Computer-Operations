@@ -2,11 +2,16 @@
 
 ## Ops 201: Foundations of Computer Operations
 
+### Reading 01
+
 1.	What is the purpose of the Windows System Restore tool?
 This is a tool that allows the Windows Operating system to create and manage restore points. I like to think of it the same as undoing a previous command in word for example.
 
 2.	How long does it usually take to use the System Restore tool in Windows?
 It takes anywhere from 10-30 minutes.
+
+3. 3.	How do you start a System Restore from the command prompt?
+System restore can be accomplished by using the prompt, rstrui.exe.
 
 4.	What options are available if System Restore did not fix the problem?
 The options are to repeat the restore process or continuing to troubleshoot the problem.
