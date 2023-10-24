@@ -1,8 +1,8 @@
-#Reading Notes
+# Reading Notes
 
-##Ops 201: Foundations of Computer Operations
+## Ops 201: Foundations of Computer Operations
 
-###Reading 02 - What is Bash?
+### Reading 02 - What is Bash?
 
 What is Bash?
 
@@ -24,6 +24,6 @@ In my experience a tank crewman in the Army, we used to have to boresight (enter
 Resources: https://opensource.com/resources/what-bash
 https://www.geeksforgeeks.org/bash-scripting-introduction-to-bash-and-bash-scripting/
 
-##Things I want to know more about
+## Things I want to know more about
 
 Is Bash compatible with all operating systems?
