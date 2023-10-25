@@ -17,6 +17,10 @@ Security threats have evolved and continue to evolve into more and more signific
 Writing skills are important because they allow the help desk tech to effectively communicate throughout the organization and its customers. This requires the tech to have the ability to write in a manner that allows those who have little technical knowledge to easily understand what is being communicated. 
 Critical thinking skills help resolve problems by comparing current problems to past problems. This allows these problems to be resolved quickly. This experience can then use this experience to troubleshoot and solve more complex problems.
 
+Resources: https://www.pearsonitcertification.com/articles/article.aspx?p=2260779&seqNum=5
+https://www.bmc.com/blogs/service-desk-support-analyst/
+https://transcosmos.co.uk/blog/6-essential-skills-of-it-service-desk-team/
+
 ## Things I Want to Know More About
 
 Do Help Desk professionals solve security issues in every organisation, or do they have to notfy the infosec department if they discover something suspicious? How much can the Help Desk work on security problems before they need to escalate it to the infosec department.
